@@ -9,6 +9,3 @@ Phương pháp này dựa vào việc tải dữ liệu chứng khoán từ Vndi
 Phương pháp này tập trung vào việc sử dụng thư viện vnstock, được phát triển bởi Vũ Thịnh, để tải dữ liệu chứng khoán. vnstock cung cấp một giao diện và API thân thiện với người dùng, cho phép tích hợp dễ dàng vào các dự án phân tích dữ liệu chứng khoán.
 
 Để hiểu rõ hơn về cách sử dụng cả hai phương pháp trên, bạn có thể tham khảo tài liệu hướng dẫn chi tiết qua [Link Google Colab](https://colab.research.google.com/drive/1xBZchGjqJZlbHcvcawztqX87p-62njPQ?usp=sharing), tài liệu cung cấp hướng dẫn từng bước về cách thiết lập, cài đặt và sử dụng thư viện để tải dữ liệu chứng khoán Việt Nam một cách hiệu quả.
-![Uploading image.png…]()
-
-
