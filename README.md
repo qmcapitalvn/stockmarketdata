@@ -1,5 +1,5 @@
 **I. Giới thiệu**
-Trong bài viết này, QM Capital đã tổng hợp và phân tích các phương pháp tiêu biểu để thu thập dữ liệu chứng khoán Việt Nam qua ngôn ngữ lập trình Python. Đề cập đến hai giải pháp chính được phát triển bởi Phạm Đình Khánh và Vũ Thịnh, bài viết sẽ cung cấp hướng dẫn chi tiết và đánh giá toàn diện, giúp người dùng lựa chọn lộ trình ứng dụng phù hợp nhất với yêu cầu và mục đích sử dụng cụ thể.
+Trong bài viết này, QM Capital đã tổng hợp các phương pháp tiêu biểu để thu thập dữ liệu chứng khoán Việt Nam qua ngôn ngữ lập trình Python. Đề cập đến hai giải pháp chính được phát triển bởi Phạm Đình Khánh và Vũ Thịnh, bài viết sẽ cung cấp hướng dẫn chi tiết và đánh giá toàn diện, giúp người dùng lựa chọn lộ trình ứng dụng phù hợp nhất với yêu cầu và mục đích sử dụng cụ thể.
 
 **II. Tài liệu hướng dẫn**
  
